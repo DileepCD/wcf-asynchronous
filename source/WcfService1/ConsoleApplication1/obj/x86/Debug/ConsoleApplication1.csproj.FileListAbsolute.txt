@@ -3,3 +3,9 @@ c:\users\dileepd\documents\visual studio 2010\Projects\WcfService1\ConsoleApplic
 c:\users\dileepd\documents\visual studio 2010\Projects\WcfService1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
 c:\users\dileepd\documents\visual studio 2010\Projects\WcfService1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
 c:\users\dileepd\documents\visual studio 2010\Projects\WcfService1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Dileep\test clone\wcf-asynchronous\source\WcfService1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Dileep\test clone\wcf-asynchronous\source\WcfService1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Dileep\test clone\wcf-asynchronous\source\WcfService1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Dileep\test clone\wcf-asynchronous\source\WcfService1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Dileep\test clone\wcf-asynchronous\source\WcfService1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\Dileep\test clone\wcf-asynchronous\source\WcfService1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

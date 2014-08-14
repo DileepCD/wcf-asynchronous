@@ -2,3 +2,8 @@ c:\users\dileepd\documents\visual studio 2010\Projects\WcfService1\WcfService1\b
 c:\users\dileepd\documents\visual studio 2010\Projects\WcfService1\WcfService1\bin\WcfService1.pdb
 c:\users\dileepd\documents\visual studio 2010\Projects\WcfService1\WcfService1\obj\Debug\WcfService1.dll
 c:\users\dileepd\documents\visual studio 2010\Projects\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
+D:\Dileep\test clone\wcf-asynchronous\source\WcfService1\WcfService1\bin\WcfService1.dll
+D:\Dileep\test clone\wcf-asynchronous\source\WcfService1\WcfService1\bin\WcfService1.pdb
+D:\Dileep\test clone\wcf-asynchronous\source\WcfService1\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+D:\Dileep\test clone\wcf-asynchronous\source\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+D:\Dileep\test clone\wcf-asynchronous\source\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
