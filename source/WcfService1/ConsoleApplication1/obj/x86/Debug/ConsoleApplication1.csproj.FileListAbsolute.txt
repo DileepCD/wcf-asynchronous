@@ -1,0 +1,5 @@
+c:\users\dileepd\documents\visual studio 2010\Projects\WcfService1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\dileepd\documents\visual studio 2010\Projects\WcfService1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\dileepd\documents\visual studio 2010\Projects\WcfService1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+c:\users\dileepd\documents\visual studio 2010\Projects\WcfService1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+c:\users\dileepd\documents\visual studio 2010\Projects\WcfService1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
